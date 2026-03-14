@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+pydantic
+pydantic-settings
+python-dotenv
+openai
+langchain
+faiss-cpu
+pandas
+numpy
+scikit-learn
+prophet
+sqlalchemy
+psycopg2-binary
+requests
+httpx
+twilio

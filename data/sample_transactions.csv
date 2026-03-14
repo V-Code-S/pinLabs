@@ -1,0 +1,9 @@
+merchant_id,amount,category,channel,created_at
+merchant-demo,18000,sale,pos,2026-03-10T09:00:00
+merchant-demo,24000,sale,upi,2026-03-10T12:00:00
+merchant-demo,21000,sale,pos,2026-03-11T10:00:00
+merchant-demo,26000,sale,pos,2026-03-11T17:00:00
+merchant-demo,22000,sale,pos,2026-03-12T11:00:00
+merchant-demo,28000,sale,upi,2026-03-12T18:00:00
+merchant-demo,23000,sale,pos,2026-03-13T10:30:00
+merchant-demo,31000,sale,pos,2026-03-13T19:15:00
